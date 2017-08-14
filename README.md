@@ -14,3 +14,13 @@ node index.js <email> <password>
 ```
 
 Account (email/password) Gympass valid.
+
+### Development
+
+#### Requirements:
+
+- YarnPkg
+
+```sh
+yarn global add file:$PWD
+```
